@@ -1,3 +1,53 @@
+
+# Course Bundler
+
+CourseBundler is a full stack web application developed for students.
+
+CourseBundler is the best platform to learn Computer Science Subjects from the best teachers in their respective subjects.
+
+## Demo
+
+https://course-bundler-client.vercel.app/
+
+
+## Description
+
+●	Developed a Full-Stack Web Application for teaching purpose where users can login and subscribe to access playlists on several Computer Science domains and learn from the videos.
+
+●	Frontend is developed using React.js, ChakraUI and /Redux. For backend Node.js and Express.js and database is managed by MongoDB.
+
+●	Payment Gateway built using Razorpay. Reduced search time by 70% by implementing functionality to search courses by name, keywords and categories.
+
+●	Admin Dashboard build with help of Chart.js and provides the functionality of real time update on statistics of number of users, subscriptions and course views.
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`PORT`
+`MONGO_URI`
+
+`FRONTEND_URL`
+`JWT_SECRET`
+
+`SMTP_HOST`
+`SMTP_PORT`
+`SMTP_USER`
+`SMTP_PASS`
+
+`CLOUDINARY_CLIENT_NAME`
+`CLOUDINARY_CLIENT_API`
+`CLOUDINARY_CLIENT_SECRET`
+
+`PLAN_ID`
+`RAZORPAY_API_KEY`
+`RAZORPAY_API_SECRET`
+
+`REFUND_DAYS`
+`MY_MAIL`
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
