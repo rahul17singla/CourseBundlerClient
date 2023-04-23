@@ -1,4 +1,3 @@
-
 # Course Bundler
 
 CourseBundler is a full stack web application developed for students.
@@ -7,9 +6,13 @@ CourseBundler is the best platform to learn Computer Science Subjects from the b
 
 ## Demo
 
+The website is deployed and live on:
+
 https://course-bundler-client.vercel.app/
 
+For the backend code refer to the repository link:
 
+https://github.com/rahul17singla/CourseBundlerServer
 ## Description
 
 ●	Developed a Full-Stack Web Application for teaching purpose where users can login and subscribe to access playlists on several Computer Science domains and learn from the videos.
