@@ -20,4 +20,4 @@ const store = configureStore({
 
 export default store;
 
-export const server = "https://coursebundler-wnkq.onrender.com/api/v1";
+export const server = "https://course-bundler-server-sigma.vercel.app/api/v1";
